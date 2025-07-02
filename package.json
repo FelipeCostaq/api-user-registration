@@ -20,6 +20,7 @@
   "homepage": "https://github.com/FelipeCostaq/api-user-registration#readme",
   "dependencies": {
     "@prisma/client": "^6.11.0",
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
