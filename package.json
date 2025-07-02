@@ -1,6 +1,7 @@
 {
   "name": "apiuserregistration",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/FelipeCostaq/api-user-registration/issues"
   },
-  "homepage": "https://github.com/FelipeCostaq/api-user-registration#readme"
+  "homepage": "https://github.com/FelipeCostaq/api-user-registration#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
